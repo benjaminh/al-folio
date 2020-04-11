@@ -1,16 +1,16 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Benjamin Hervy</strong>
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>IGARUN</p>
+    <p>1 Rue de la Noë</p>
+    <p>44230 Nantes, France</p>
 
 news: true
 social: true
