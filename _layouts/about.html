@@ -5,7 +5,7 @@ layout: page
 {% if page.profile %}
   <div class="profile col one {{ page.profile.align }}">
     {% if page.profile.image %}
-      <img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+      <div id="portrait" class="image-cropper"></div>
     {% endif %}
     {% if page.profile.address %}
       <div class="address">

@@ -18,6 +18,9 @@
 @import 'posts';
 
 @import 'projects';
+$baseurl:"{{ site.baseurl }}";
+$url:"{{ site.url }}";
+$image:"{{ site.image }}";
 @import 'profile';
 @import 'pagination';
 @import 'publications';

@@ -7,10 +7,7 @@ description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: portrait.jpg
-  address: >
-    <p>IGARUN</p>
-    <p>1 Rue de la Noë</p>
-    <p>44230 Nantes, France</p>
+  address:
 
 news: true
 social: true
