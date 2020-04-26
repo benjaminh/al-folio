@@ -2,7 +2,9 @@
 layout: about
 permalink: /
 title: <strong>Benjamin Hervy</strong>
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: >
+  Research Engineer, PhD<br>
+  _ science citizen of the world _
 
 profile:
   align: right
@@ -13,8 +15,14 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I currently work as a research engineer for <a href="https://or2c.univ-nantes.fr">OR2C</a>, a regional observatory on coastal risk management where I contribute to GIS data management, analysis, and to web application development.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also associate researcher to <a href="https://cfv.univ-nantes.fr">Centre François Viète</a>. I'm interested in citizen sciences, and contribute to a crowdsourcing project about <i>Comédie-Italienne</i> (XVIII<sup>th</sup> century). I also investigate epistemology issues related to data processing in digital humanities projects.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated from École Centrale de Nantes, with a Master in engineering (mechanics and computer science), and a PhD in industrial engineering during which I specialized in knowledge management and data science for digital humanities.
+
+Scientific collaborations:
+- [Guillaume Raschia](http://web.polytech.univ-nantes.fr/navigation/raschia-guillaume-4030.kjsp){:target="\_blank"}, LS2N UMR CNRS 6004, DUKE Team
+- [Florent Laroche](https://www.ls2n.fr/annuaire/Florent%20LAROCHE/){:target="\_blank"}, LS2N UMR CNRS 6004, IS3P team.
+- [Françoise Rubellin](http://lamo.univ-nantes.fr/_Francoise-Rubellin_){:target="\_blank"}, LAMO EA 4276
+- [Pierre Teissier](https://www.univ-nantes.fr/version-francaise/pierre-teissier-647077.kjsp){:target="\_blank"}, Jean-Louis Kerouanton, CFV EA 1161
